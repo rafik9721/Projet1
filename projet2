@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style/style.css" />
+    <style>
+      h1 ~ p {
+        color: pink;
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quae
+      incidunt sint, unde amet, deleniti eius expedita ipsam repudiandae natus
+      ipsum animi ad aperiam qui, asperiores culpa officiis delectus obcaecati.
+    </p>
+    <span style="color: red"
+      >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla itaque
+      quas nesciunt culpa commodi labore natus quod repellendus, aspernatur ipsa
+      nostrum repudiandae sequi quasi vitae alias officiis, et similique
+      consectetur!</span
+    >
+    <br />
+    <br />
+
+    <a href="">Welcom code213</a>
+    <p class="text">
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed
+      exercitationem, laudantium explicabo nostrum libero nam delectus culpa
+      quos vero obcaecati magnam error doloremque fugit cum, minima in sit quam
+      eius.
+    </p>
+    <p id="textunique">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi
+      architecto esse accusamus, laudantium similique nisi eos nulla, voluptas
+      reprehenderit alias consectetur quidem cum. Dicta possimus sapiente vel
+      illum, magni dignissimos?
+    </p>
+  </body>
+</html>
